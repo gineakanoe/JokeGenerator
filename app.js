@@ -1,6 +1,6 @@
 //* Used https://www.jokeapi.dev/ for API database
 //* Base code came from YouTuber DThompsonDev; video link is https://www.youtube.com/watch?v=6WclW4ThDUU&ab_channel=DThompsonDev
-
+//* Will change around code; but this is good for the base.
 
 
 const jokeText = document.getElementById('joke');
